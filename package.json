@@ -1,0 +1,19 @@
+{
+  "name": "rock-paper-scissor-byabdullah-a7",
+  "version": "1.0.0",
+  "description": "A simple Rock paper Game between two players",
+  "main": "index.js",
+  "type": "module",
+  "bin": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdullah",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
